@@ -2,8 +2,8 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+I'm [TomHolland](https://t.me/Unlimited_chanda_bot)
+Filter bot to my grop©️@CinemaChanada
 
 See <i>/help</i> for commands and more details.</b>
 """
