@@ -1,9 +1,9 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>ℍ𝕪 {},
 
-I'm [TomHolland](https://t.me/Unlimited_chanda_bot)
-Filter bot to my grop©️@CinemaChanada
+𝕀'𝕞[TomHolland](https://t.me/Unlimited_chanda_bot)
+𝕎𝕠𝕣𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 ℂ𝕚𝕟𝕖𝕞𝕒ℂ𝕙𝕒𝕟𝕕𝕒 𝕘𝕣𝕠𝕦𝕡 𝕪𝕠𝕦 ℂ𝕠𝕦𝕝𝕕𝕟'𝕥. 𝔸𝕕𝕕 𝕞𝕖🤐
 
 See <i>/help</i> for commands and more details.</b>
 """
